@@ -75,6 +75,10 @@ Multiple machine learning models were trained and evaluated to identify the best
 
 ### Top Predictive Features
 
+<p align="center">
+  <img src="https://github.com/clmj1727/Project4-MachineLearning/blob/main/Random%20Forest%20-%20Feature%20Importance.png" alt="Random Forest: Feature Importance" width="700">
+</p>
+
 - **Alcohol Intake**, **BMI**, and **Cancer History** were the most influential predictors.
 - **Age** and **Physical Activity** also played notable roles, suggesting the impact of lifestyle and age-related factors.
 - **Genetic Risk** remained important but was not the top predictor, possibly due to interactions with other features.
@@ -97,7 +101,7 @@ Multiple machine learning models were trained and evaluated to identify the best
 
 - `CancerNotebook.ipynb`: Jupyter notebook with full analysis
 - `README.md`: Project documentation
-- Slide deck: Presentation on findings and model performance
+- `Predicting Cancer Risk`: Slide deck
 
 ---
 
