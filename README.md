@@ -1,4 +1,4 @@
-# Project 4: Cancer Prediction Using Machine Learning
+<h1  align="center">Project 4: Cancer Prediction Using Machine Learning</h1>
 <a name="readme-top"></a>
 
 ## Overview
