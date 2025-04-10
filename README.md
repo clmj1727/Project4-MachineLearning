@@ -76,7 +76,7 @@ Multiple machine learning models were trained and evaluated to identify the best
 ### Top Predictive Features
 
 <p align="center">
-  <img src="https://github.com/clmj1727/Project4-MachineLearning/blob/main/Random%20Forest%20-%20Feature%20Importance.png" alt="Random Forest: Feature Importance" width="700">
+  <img src="https://github.com/clmj1727/Project4-MachineLearning/blob/main/Visualizations/Random%20Forest%20-%20Feature%20Importance.png" alt="Random Forest: Feature Importance" width="700">
 </p>
 
 - **Alcohol Intake**, **BMI**, and **Cancer History** were the most influential predictors.
